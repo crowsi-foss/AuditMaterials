@@ -6,4 +6,4 @@ We welcome contributions and would be happy to receive your feedback how this ma
 Feel free to open an issue or submit a pull request if you have improvements or additional resources to share.
 
 # Contact
-For questions or further information, visit crowsi.com or write to contact@crowsi.com.
+For questions or further information, visit [crowsi.com](https://crowsi.com/) or write to contact@crowsi.com.
